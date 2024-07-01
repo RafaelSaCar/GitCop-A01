@@ -1,2 +1,2 @@
-# GitCopilot-A01
+# GitCop-A01
 Treinamento GitHub + Copilot
